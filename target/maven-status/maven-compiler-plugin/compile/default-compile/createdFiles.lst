@@ -1,0 +1,5 @@
+com\bigdataca\electronicsignatureservice\controller\SignatureController.class
+com\bigdataca\electronicsignatureservice\ElectronicSignatureServiceApplication.class
+com\bigdataca\electronicsignatureservice\utilities\ValidateSignaturePDF.class
+com\bigdataca\electronicsignatureservice\service\SignatureService.class
+com\bigdataca\electronicsignatureservice\utilities\CertificateInformation.class
